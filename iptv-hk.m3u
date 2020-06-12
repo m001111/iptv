@@ -15,6 +15,10 @@ http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" tvg-country="HK" tvg-url="" group-title="General",星空衛視
 rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" tvg-country="HK" tvg-url="" group-title="News",NOW新聞台
+http://teslagram.com/live/channel_332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.hkcsl.com/r/cms/pccw/CHI/contentcentral-root/images/upload//now_c.jpg" tvg-country="HK" tvg-url="" group-title="News",NOW直播台
+http://teslagram.com/live/channel_331.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.easyatm.com.tw/img/f/458/nBnauM3XzYDO1IzM5cTMxMzM1UTM1QDN5MjM5ADMwAjMwUzL3EzL1UzLt92YucmbvRWdo5Cd0FmLyE2LvoDc0RHa.jpg" tvg-country="HK" tvg-url="" group-title="News",有線新聞台
 https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a8/I-Cable_Family_Ent.jpg" tvg-country="HK" tvg-url="" group-title="",有線綜合娛樂台
