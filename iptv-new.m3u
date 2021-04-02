@@ -1,0 +1,89 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-country="HK" tvg-url="" group-title="Sport",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="Movies",Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/1wbOhJV.jpg" tvg-country="HK" tvg-url="" group-title="Travel",亞旅衛視
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" tvg-country="HK" tvg-url="" group-title="General",星空衛視
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" tvg-country="HK" tvg-url="" group-title="News",NOW-新聞台
+http://teslagram.com/live/channel_332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.hkcsl.com/r/cms/pccw/CHI/contentcentral-root/images/upload//now_c.jpg" tvg-country="HK" tvg-url="" group-title="News",NOW-直播台
+http://teslagram.com/live/channel_331.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.hkcsl.com/r/cms/pccw/CHI/contentcentral-root/images/upload//now_c.jpg" tvg-country="HK" tvg-url="" group-title="News",NOW-630台
+http://livetv.dnsfor.me/channel.12.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.easyatm.com.tw/img/f/458/nBnauM3XzYDO1IzM5cTMxMzM1UTM1QDN5MjM5ADMwAjMwUzL3EzL1UzLt92YucmbvRWdo5Cd0FmLyE2LvoDc0RHa.jpg" tvg-country="HK" tvg-url="" group-title="News",有線-新聞台
+http://livetv.dnsfor.me/channel.5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a8/I-Cable_Family_Ent.jpg" tvg-country="HK" tvg-url="" group-title="",有線-綜合娛樂台
+https://ottproxy2.mott.tv/livehls/MOB-CN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" tvg-country="HK" tvg-url="" group-title="",有線-財經資訊台
+https://ottproxy2.mott.tv/livehls/MOB-NGW/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" tvg-country="HK" tvg-url="" group-title="General",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-country="HK" tvg-url="" group-title="General",港台電視31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" tvg-country="HK" tvg-url="" group-title="News",港台電視32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/SSKnv5j.jpg" tvg-country="HK" tvg-url="" group-title="General",J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/SSKnv5j.jpg" tvg-country="HK" tvg-url="" group-title="General",無線-翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/SSKnv5j.jpg" tvg-country="HK" tvg-url="" group-title="General",無線-新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/SSKnv5j.jpg" tvg-country="HK" tvg-url="" group-title="General",無線-財經台
+http://livetv.dnsfor.me/channel.11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://lh3.googleusercontent.com/wASswLxqfLckhZ_NaWVeYmQlFA794kRKfiDmmOUbIYk9L54wujBozRRIXmeYDjF82AHYJ53i-VnmAcgCEiFkh5GC=s400-c" tvg-country="HK" tvg-url="" group-title="",無線-明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/SSKnv5j.jpg" tvg-country="HK" tvg-url="" group-title="General",無線-新聞台 TVB-J1
+https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://viu.tv/assets/img/logo.png" tvg-country="HK" tvg-url="" group-title="",Viutv
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/400px-ViuTVsix-logo.svg.png" tvg-country="HK" tvg-url="" group-title="",Viutvsix
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67PdowOIIIsM06-5orprmbSRMiZESjGOGbQaaUhNcorOT6mS3jPGa54b_mHVRXDpOA_I&usqp=CAU" tvg-country="UK" tvg-url="" group-title="News",BBC News
+http://ott-cdn.ucom.am/s24/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1" tvg-country="HK" tvg-url="" group-title="Shop",耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/wnQPn2d.jpg" tvg-country="HK" tvg-url="" group-title="",香港衛視 (普)
+https://d2d50uwwyt5mlr.cloudfront.net/h1_cbr_lo_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png" tvg-country="HK" tvg-url="" group-title="",鳳凰衛視-香港台(ATV)
+http://d1rq1yf783ri9s.cloudfront.net/p2_cbr_lo_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="",鳳凰衛視-中文台
+http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="News",鳳凰衛視-資訊台 (普)
+https://d158f3mdhc5kf4.cloudfront.net/p1_cbr_lo_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" tvg-country="HK" tvg-url="" group-title="",鳳凰衛視電影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="HK" tvg-url="" group-title="",拆彈專家2(粵語)
+https://xigua-cdn.haima-zuida.com/20210319/20368_c2c1203b/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="國語" tvg-logo="https://sme.moeasmea.gov.tw/startup/thumbnail.php?src=upload/rmap/201907/01629_0711prBnL8.png&w=351&zc=1" tvg-country="TW" tvg-url="" group-title="News",台灣民視新聞台 (國)
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="國語" tvg-logo="https://img.vpnclub.cc/content/zh/2018/09/TTV-News-Logo.jpg" tvg-country="TW" tvg-url="" group-title="News",台視新聞 (國)
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="國語" tvg-logo="https://www.kstv.com.tw/images/channel_logos/ch91.png" tvg-country="TW" tvg-url="" group-title="News",壹新聞 (國)
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="國語" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/70/51chEBCNewslogo.jpg" tvg-country="TW" tvg-url="" group-title="News",東森新聞 (國)
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="國語" tvg-logo="https://3.bp.blogspot.com/-ZVwzxp1-EUs/WiI8CXlMMvI/AAAAAAAAAfk/eInTrgS2DDQalJWJqEAslPz5Y2y90TzWQCLcBGAs/s1600/CH%2B30.jpg" tvg-country="TW" tvg-url="" group-title="",三立都會台 (國)
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14024&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" tvg-country="TW" tvg-url="" group-title="News",NHK華語視界
+http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" tvg-country="TW" tvg-url="" group-title="News",NHK World
+http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="日語" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJHrmo2puKtik_mwPgkB-5YTxZL7cPvB7SBw55su7Jqk87kQKhD-3tXAtkhHho9-DALAo&usqp=CAU" tvg-country="TW" tvg-url="" group-title="News",日テレNEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="日語" tvg-logo="https://www.clipartmax.com/png/small/61-617513_fuji-television-fuji-media-holdings-inc-fuji-television-network-logo.png" tvg-country="JP" tvg-url="" group-title="",Fuji TV
+https://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="日語" tvg-logo="https://dic.nicovideo.jp/oekaki/883277.png" tvg-country="JP" tvg-url="" group-title="",TBS
+https://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
